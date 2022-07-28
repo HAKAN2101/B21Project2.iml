@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f1742d-62b2-4c7c-8cae-11f59479b11b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FeatureAClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FeatureAClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="76f1742d-62b2-4c7c-8cae-11f59479b11b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +89,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunManager" selected="Application.Hello">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
@@ -149,7 +151,42 @@
       <option name="project" value="LOCAL" />
       <updated>1659039015543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commiting again if its working">
+      <created>1659039352826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659039352826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commiting again if its working">
+      <created>1659039477763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659039477763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commiting again if its working">
+      <created>1659039559561</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659039559561</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commiting again if its working">
+      <created>1659039609286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659039609286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commiting again if its working">
+      <created>1659039637228</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659039637228</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
