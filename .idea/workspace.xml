@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f1742d-62b2-4c7c-8cae-11f59479b11b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LogoutService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogoutUtility.java" afterDir="false" />
-    </list>
+    <list default="true" id="76f1742d-62b2-4c7c-8cae-11f59479b11b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Logout" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,7 +91,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.Hello">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -120,6 +116,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
